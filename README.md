@@ -1,1 +1,3 @@
-#sublime_settings
+#Sublime Settings
+
+`User settings for Sublime Text`
